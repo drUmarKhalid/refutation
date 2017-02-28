@@ -6,8 +6,20 @@
     <description>Recent content in Posts-rss on Adventure Time!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 May 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2017 11:37:38 +0000</lastBuildDate>
     <atom:link href="http://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.com/posts/test/</link>
+      <pubDate>Tue, 28 Feb 2017 11:37:38 +0000</pubDate>
+      
+      <guid>http://example.com/posts/test/</guid>
+      <description>&lt;p&gt;This is realy very good talk&lt;/p&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;auto&#34; src=&#34;https://www.youtube.com/embed/rLFEmR9gUpg&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34;&gt;&amp;amp;lt;/div&amp;amp;gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>The Tower (Season 6)</title>
