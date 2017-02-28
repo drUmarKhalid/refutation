@@ -1,2 +1,0 @@
-# refutation
-The Refutation Website
